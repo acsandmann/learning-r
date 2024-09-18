@@ -23,3 +23,6 @@ top_10_your_ranking <- head(sorted_candy, 10)
 
 # top 10 candies based on public
 top_10_public_ranking <- candy_data[order(-candy_data$winpercent),][1:10, ]
+
+top_10_your_ranking
+top_10_public_ranking
