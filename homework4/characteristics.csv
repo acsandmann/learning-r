@@ -1,0 +1,84 @@
+"List","relentless","patient","curious","fast_learner","intuitive","perfectionist","tinkerer","detective","deep_learner","careful","concrete_thinker","communicator","aesthete","quick","abstract_thinker","idea_generator","competitive","symbolic_thinker","listener","disciplined","thorough","methodical","minimalist","organized","visual_thinker","clever","writer","good_memory","fearless"
+"Relentless, Fast learner, Intuitive, Concrete thinker, Quick, Competitive, Disciplined, Thorough, Minimalist, Organized, Clever, Good memory",1,0,0,1,1,0,0,0,0,0,1,0,0,1,0,0,1,0,0,1,1,0,1,1,0,1,0,1,0
+"Curious, Intuitive, Deep learner, Symbolic thinker, Listener, Methodical",0,0,1,0,1,0,0,0,1,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,0,0,0,0
+"Relentless, Curious, Intuitive, Perfectionist, Tinkerer, Detective, Careful, Communicator, Idea generator, Competitive, Listener, Disciplined, Minimalist, Organized, Visual thinker, Fearless",1,0,1,0,1,1,1,1,0,1,0,1,0,0,0,1,1,0,1,1,0,0,1,1,1,0,0,0,1
+"Relentless, Curious, Intuitive, Perfectionist, Concrete thinker, Abstract thinker, Competitive, Symbolic thinker, Listener, Thorough, Methodical, Organized, Visual thinker, Clever, Writer",1,0,1,0,1,1,0,0,0,0,1,0,0,0,1,0,1,1,1,0,1,1,0,1,1,1,1,0,0
+"Fast learner, Communicator, Quick, Idea generator, Competitive, Clever, Fearless",0,0,0,1,0,0,0,0,0,0,0,1,0,1,0,1,1,0,0,0,0,0,0,0,0,1,0,0,1
+"Intuitive, Perfectionist, Deep learner, Careful, Communicator, Aesthete, Abstract thinker, Idea generator, Symbolic thinker, Listener, Thorough, Organized, Visual thinker, Writer",0,0,0,0,1,1,0,0,1,1,0,1,1,0,1,1,0,1,1,0,1,0,0,1,1,0,1,0,0
+"Curious, Fast learner, Perfectionist, Deep learner, Careful, Concrete thinker, Communicator, Competitive, Listener, Disciplined, Thorough, Methodical, Organized, Good memory",0,0,1,1,0,1,0,0,1,1,1,1,0,0,0,0,1,0,1,1,1,1,0,1,0,0,0,1,0
+"Fast learner, Perfectionist, Careful, Organized",0,0,0,1,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+"Curious, Careful, Concrete thinker, Communicator, Listener, Disciplined, Thorough, Organized",0,0,1,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,1,1,1,0,0,1,0,0,0,0,0
+"Curious, Fast learner, Intuitive, Tinkerer, Aesthete, Idea generator, Competitive, Listener, Disciplined, Clever, Writer",0,0,1,1,1,0,1,0,0,0,0,0,1,0,0,1,1,0,1,1,0,0,0,0,0,1,1,0,0
+"Patient, Curious, Fast learner, Intuitive, Perfectionist, Communicator, Abstract thinker, Symbolic thinker, Listener, Disciplined, Thorough, Methodical, Organized, Visual thinker, Good memory",0,1,1,1,1,1,0,0,0,0,0,1,0,0,1,0,0,1,1,1,1,1,0,1,1,0,0,1,0
+"Curious, Communicator, Aesthete, Abstract thinker, Listener, Organized, Visual thinker, Good memory",0,0,1,0,0,0,0,0,0,0,0,1,1,0,1,0,0,0,1,0,0,0,0,1,1,0,0,1,0
+"Patient, Curious, Intuitive, Deep learner, Idea generator, Competitive, Symbolic thinker, Listener, Disciplined, Visual thinker, Writer",0,1,1,0,1,0,0,0,1,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,1,0,1,0,0
+"Curious, Careful, Listener, Visual thinker",0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0
+"Patient, Curious, Fast learner, Careful, Communicator, Idea generator, Competitive, Listener, Disciplined, Thorough, Methodical, Organized",0,1,1,1,0,0,0,0,0,1,0,1,0,0,0,1,1,0,1,1,1,1,0,1,0,0,0,0,0
+"Relentless, Perfectionist, Communicator, Competitive, Listener, Disciplined, Organized, Visual thinker",1,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,1,0,1,1,0,0,0,1,1,0,0,0,0
+"Patient, Careful, Methodical, Minimalist, Visual thinker, Good memory",0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,0,1,0
+"Curious, Perfectionist, Deep learner, Careful, Concrete thinker, Listener, Disciplined, Thorough, Methodical, Minimalist, Organized, Visual thinker",0,0,1,0,0,1,0,0,1,1,1,0,0,0,0,0,0,0,1,1,1,1,1,1,1,0,0,0,0
+"Fast learner, Intuitive, Perfectionist, Communicator, Quick, Competitive, Organized, Visual thinker, Clever, Writer, Good memory",0,0,0,1,1,1,0,0,0,0,0,1,0,1,0,0,1,0,0,0,0,0,0,1,1,1,1,1,0
+"Perfectionist, Deep learner, Careful, Concrete thinker, Idea generator, Symbolic thinker, Listener, Disciplined, Thorough, Methodical, Minimalist, Organized, Writer",0,0,0,0,0,1,0,0,1,1,1,0,0,0,0,1,0,1,1,1,1,1,1,1,0,0,1,0,0
+"Patient, Curious, Detective, Communicator, Abstract thinker, Competitive, Listener, Disciplined, Organized, Visual thinker, Writer, Good memory",0,1,1,0,0,0,0,1,0,0,0,1,0,0,1,0,1,0,1,1,0,0,0,1,1,0,1,1,0
+"Patient, Communicator, Listener, Thorough, Organized",0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,1,0,0,1,0,0,0,0,0
+"Perfectionist, Communicator, Competitive, Symbolic thinker, Organized",0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,1,1,0,0,0,0,0,1,0,0,0,0,0
+"Patient, Perfectionist, Deep learner, Concrete thinker, Competitive, Disciplined, Visual thinker, Writer, Good memory",0,1,0,0,0,1,0,0,1,0,1,0,0,0,0,0,1,0,0,1,0,0,0,0,1,0,1,1,0
+"Patient, Curious, Intuitive, Perfectionist, Detective, Careful, Quick, Listener, Disciplined, Minimalist",0,1,1,0,1,1,0,1,0,1,0,0,0,1,0,0,0,0,1,1,0,0,1,0,0,0,0,0,0
+"Curious, Fast learner, Perfectionist, Communicator, Competitive, Listener, Organized, Visual thinker",0,0,1,1,0,1,0,0,0,0,0,1,0,0,0,0,1,0,1,0,0,0,0,1,1,0,0,0,0
+"Perfectionist, Tinkerer, Deep learner, Disciplined, Clever, Writer",0,0,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1,0,0
+"Relentless, Patient, Fast learner, Intuitive, Detective, Careful, Communicator, Quick, Competitive, Listener, Methodical, Minimalist, Clever, Good memory",1,1,0,1,1,0,0,1,0,1,0,1,0,1,0,0,1,0,1,0,0,1,1,0,0,1,0,1,0
+"Curious, Fast learner, Careful, Quick, Competitive, Disciplined, Organized, Visual thinker, Clever, Good memory",0,0,1,1,0,0,0,0,0,1,0,0,0,1,0,0,1,0,0,1,0,0,0,1,1,1,0,1,0
+"Relentless, Curious, Fast learner, Intuitive, Detective, Concrete thinker, Communicator, Idea generator, Competitive, Listener, Disciplined, Minimalist, Writer, Good memory, Fearless",1,0,1,1,1,0,0,1,0,0,1,1,0,0,0,1,1,0,1,1,0,0,1,0,0,0,1,1,1
+"Patient, Curious, Careful, Concrete thinker, Listener, Organized",0,1,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0
+"Curious, Perfectionist, Visual thinker, Good memory",0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0
+"Curious, Perfectionist, Detective, Careful, Communicator, Abstract thinker, Competitive, Listener, Disciplined, Thorough, Organized, Visual thinker",0,0,1,0,0,1,0,1,0,1,0,1,0,0,1,0,1,0,1,1,1,0,0,1,1,0,0,0,0
+"Fast learner, Intuitive, Deep learner, Quick, Competitive, Disciplined, Thorough, Methodical, Minimalist, Organized, Good memory",0,0,0,1,1,0,0,0,1,0,0,0,0,1,0,0,1,0,0,1,1,1,1,1,0,0,0,1,0
+"Relentless, Patient, Detective, Communicator, Competitive, Listener, Thorough, Writer, Fearless",1,1,0,0,0,0,0,1,0,0,0,1,0,0,0,0,1,0,1,0,1,0,0,0,0,0,1,0,1
+"Relentless, Curious, Intuitive, Deep learner, Concrete thinker, Competitive, Listener, Methodical, Visual thinker, Good memory",1,0,1,0,1,0,0,0,1,0,1,0,0,0,0,0,1,0,1,0,0,1,0,0,1,0,0,1,0
+"Relentless, Curious, Fast learner, Intuitive, Perfectionist, Detective, Careful, Quick, Idea generator, Competitive, Symbolic thinker, Listener, Thorough, Methodical, Visual thinker, Clever, Writer, Good memory, Fearless",1,0,1,1,1,1,0,1,0,1,0,0,0,1,0,1,1,1,1,0,1,1,0,0,1,1,1,1,1
+"Relentless, Curious, Intuitive, Quick, Abstract thinker, Competitive, Disciplined, Organized, Visual thinker, Fearless",1,0,1,0,1,0,0,0,0,0,0,0,0,1,1,0,1,0,0,1,0,0,0,1,1,0,0,0,1
+"Patient, Curious, Perfectionist, Tinkerer, Deep learner, Concrete thinker, Communicator, Idea generator, Symbolic thinker, Listener, Disciplined, Thorough, Minimalist, Visual thinker, Fearless",0,1,1,0,0,1,1,0,1,0,1,1,0,0,0,1,0,1,1,1,1,0,1,0,1,0,0,0,1
+"Patient, Perfectionist, Careful, Competitive, Listener, Disciplined, Thorough, Organized",0,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0,1,0,1,1,1,0,0,1,0,0,0,0,0
+"Patient, Curious, Abstract thinker, Minimalist, Visual thinker, Good memory",0,1,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1,0,0,1,0
+"Intuitive, Idea generator",0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Patient, Curious, Fast learner, Intuitive, Detective, Competitive, Listener, Disciplined, Methodical, Organized, Clever, Good memory",0,1,1,1,1,0,0,1,0,0,0,0,0,0,0,0,1,0,1,1,0,1,0,1,0,1,0,1,0
+"Patient, Intuitive, Abstract thinker",0,1,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Curious, Idea generator, Competitive, Listener, Disciplined, Good memory",0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,1,0,0,0,0,0,0,0,1,0
+"Patient, Curious, Intuitive, Perfectionist, Detective, Deep learner, Careful, Concrete thinker, Idea generator, Listener, Disciplined, Thorough, Visual thinker, Clever, Good memory, Fearless",0,1,1,0,1,1,0,1,1,1,1,0,0,0,0,1,0,0,1,1,1,0,0,0,1,1,0,1,1
+"Patient, Curious, Fast learner, Quick, Idea generator, Competitive, Symbolic thinker",0,1,1,1,0,0,0,0,0,0,0,0,0,1,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0
+"Perfectionist, Symbolic thinker",0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+"Patient, Fast learner, Perfectionist, Careful, Concrete thinker, Communicator, Quick, Disciplined, Thorough, Methodical, Organized, Visual thinker",0,1,0,1,0,1,0,0,0,1,1,1,0,1,0,0,0,0,0,1,1,1,0,1,1,0,0,0,0
+"Relentless, Patient, Curious, Organized, Visual thinker",1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0
+"Curious, Fast learner, Concrete thinker, Competitive, Listener, Organized, Clever, Good memory",0,0,1,1,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1,0,0,0,0,1,0,1,0,1,0
+"Patient, Curious, Fast learner, Communicator, Abstract thinker, Listener, Disciplined, Clever",0,1,1,1,0,0,0,0,0,0,0,1,0,0,1,0,0,0,1,1,0,0,0,0,0,1,0,0,0
+"Fast learner, Quick, Listener, Clever, Good memory",0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,1,0,1,0
+"Curious, Intuitive, Detective, Idea generator, Competitive, Organized, Visual thinker",0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,1,0,0,0,0
+"Curious, Competitive, Listener, Disciplined, Organized, Visual thinker",0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,1,1,0,0,0,0
+"Curious, Intuitive, Tinkerer, Abstract thinker, Competitive",0,0,1,0,1,0,1,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+"Fast learner, Intuitive, Competitive, Clever",0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0
+"Curious, Careful, Concrete thinker, Communicator, Listener, Disciplined, Visual thinker, Writer",0,0,1,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,1,1,0,0,0,0,1,0,1,0,0
+"Patient, Curious, Fast learner, Intuitive, Perfectionist, Tinkerer, Detective, Concrete thinker, Communicator, Quick, Competitive, Listener, Disciplined, Thorough, Methodical, Minimalist, Organized, Clever, Good memory",0,1,1,1,1,1,1,1,0,0,1,1,0,1,0,0,1,0,1,1,1,1,1,1,0,1,0,1,0
+"Patient, Perfectionist, Organized, Visual thinker",0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0
+"Tinkerer, Detective, Careful, Communicator, Abstract thinker, Listener, Disciplined, Methodical, Visual thinker",0,0,0,0,0,0,1,1,0,1,0,1,0,0,1,0,0,0,1,1,0,1,0,0,1,0,0,0,0
+"Fast learner, Intuitive, Quick, Competitive, Symbolic thinker, Listener, Visual thinker",0,0,0,1,1,0,0,0,0,0,0,0,0,1,0,0,1,1,1,0,0,0,0,0,1,0,0,0,0
+"Patient, Curious, Intuitive, Communicator, Abstract thinker, Idea generator, Competitive, Listener, Disciplined, Organized, Visual thinker, Fearless",0,1,1,0,1,0,0,0,0,0,0,1,0,0,1,1,1,0,1,1,0,0,0,1,1,0,0,0,1
+"Curious, Tinkerer, Deep learner, Careful, Abstract thinker, Thorough, Writer",0,0,1,0,0,0,1,0,1,1,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,1,0,0
+"Patient, Perfectionist, Careful, Competitive, Disciplined, Minimalist",0,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,1,0,0,0,0,0,0
+"Curious, Intuitive, Tinkerer, Competitive, Listener",0,0,1,0,1,0,1,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0
+"Fast learner, Intuitive, Competitive, Disciplined",0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0
+"Curious, Intuitive, Perfectionist, Tinkerer, Detective, Abstract thinker, Competitive, Listener",0,0,1,0,1,1,1,1,0,0,0,0,0,0,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0
+"Patient, Curious, Fast learner, Intuitive, Deep learner, Concrete thinker, Disciplined, Thorough, Good memory",0,1,1,1,1,0,0,0,1,0,1,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,0
+"Patient, Curious, Fast learner, Intuitive, Perfectionist, Careful, Communicator, Abstract thinker, Listener, Methodical, Organized, Writer, Good memory",0,1,1,1,1,1,0,0,0,1,0,1,0,0,1,0,0,0,1,0,0,1,0,1,0,0,1,1,0
+"Curious, Intuitive, Competitive, Methodical",0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0
+"Relentless, Patient, Intuitive, Careful, Listener, Disciplined, Thorough, Methodical, Organized, Writer",1,1,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,1,1,1,0,1,0,0,1,0,0
+"Patient, Curious, Competitive, Listener, Disciplined, Thorough",0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,1,0,0,0,0,0,0,0,0
+"Patient, Fast learner, Perfectionist, Tinkerer, Detective, Concrete thinker, Organized, Visual thinker, Good memory",0,1,0,1,0,1,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0
+"Curious, Intuitive, Listener, Disciplined, Organized, Visual thinker",0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,1,1,0,0,0,0
+"Intuitive, Perfectionist, Abstract thinker, Competitive, Symbolic thinker, Minimalist, Good memory",0,0,0,0,1,1,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,1,0,0,0,0,1,0
+"Patient, Fast learner, Perfectionist, Careful, Listener, Organized, Clever, Good memory",0,1,0,1,0,1,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,1,0,1,0
+"Relentless, Patient, Curious, Perfectionist, Tinkerer, Careful, Concrete thinker, Communicator, Idea generator, Competitive, Listener, Disciplined, Methodical, Minimalist, Visual thinker, Clever, Fearless",1,1,1,0,0,1,1,0,0,1,1,1,0,0,0,1,1,0,1,1,0,1,1,0,1,1,0,0,1
+"Curious, Fast learner, Intuitive, Perfectionist, Careful, Communicator, Competitive, Symbolic thinker, Disciplined, Thorough, Methodical, Organized, Visual thinker, Clever, Writer, Good memory",0,0,1,1,1,1,0,0,0,1,0,1,0,0,0,0,1,1,0,1,1,1,0,1,1,1,1,1,0
+"Relentless, Patient, Curious, Fast learner, Intuitive, Careful, Concrete thinker, Communicator, Aesthete, Quick, Listener, Disciplined, Thorough, Methodical, Organized, Visual thinker, Clever",1,1,1,1,1,0,0,0,0,1,1,1,1,1,0,0,0,0,1,1,1,1,0,1,1,1,0,0,0
+"Intuitive, Tinkerer, Abstract thinker, Symbolic thinker, Thorough, Visual thinker, Writer",0,0,0,0,1,0,1,0,0,0,0,0,0,0,1,0,0,1,0,0,1,0,0,0,1,0,1,0,0
+"Deep learner, Abstract thinker, Competitive, Clever, Writer",0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,1,1,0,0
+"Curious, Competitive",0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
