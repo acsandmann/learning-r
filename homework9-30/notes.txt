@@ -1,0 +1,12 @@
+Notes on 4.3:
+- Clustering algorithms like k-means can identify distinct clusters in a dataset, based on document dissimilarity measured by the distance between word count histogram vectors.
+- A notable example is clustering documents by topics, such as people, events, or media content.
+- Table 4.1 lists prominent words associated with different clusters. For instance, Cluster 6 contains topics related to TV series like *Game of Thrones* and *The X-Files*.
+- Table 4.2 shows cluster sizes and representative titles of documents in each cluster, illustrating how clusters are built from various related documents.
+- The k-means algorithm is useful even though it lacks semantic understanding of the words.
+- Linear independence is a foundational concept in linear algebra. A set of vectors is considered linearly independent if none of the vectors can be written as a linear combination of the others.
+- If the vectors are not independent, they are termed as linearly dependent, which means at least one vector in the set can be expressed as a combination of others.
+  
+Most interesting example: I found the example on customer market segmentation to be the most interesting as the concept used to segment a market of consumers is the concept used by businesses to personalize marketing and to optimize product recommendations which are things I'm very interested in.
+
+In class: I would like to further explore image classification as it is something I am interested in and I want to know more about how clustering can be used to classify things in images like objects.
